@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "tuition_hub",
+            "cwd": "tuition_hub",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tuition_hub (profile mode)",
+            "cwd": "tuition_hub",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tuition_hub (release mode)",
+            "cwd": "tuition_hub",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

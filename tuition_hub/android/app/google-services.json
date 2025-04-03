@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "13053185608",
+    "firebase_url": "https://tuitionhub-3eb50-default-rtdb.firebaseio.com",
+    "project_id": "tuitionhub-3eb50",
+    "storage_bucket": "tuitionhub-3eb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13053185608:android:0e064e330340ead3e7127d",
+        "android_client_info": {
+          "package_name": "com.example.tuition_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_qXCIhXxICW_p_WsfLuq8sI2XUdvvLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
